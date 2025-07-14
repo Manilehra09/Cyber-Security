@@ -41,3 +41,8 @@ Networking is a foundational aspect of cyber security, enabling communication be
 
 - [OWASP Networking Security](https://owasp.org/www-project-top-ten/)
 - [Cisco Cybersecurity Resources](https://www.cisco.com/c/en/us/products/security/index.html)
+
+
+## Visual Example
+
+![Computer Networking Illustration](https://upload.wikimedia.org/wikipedia/commons/3/3a/Computer-network.svg)
