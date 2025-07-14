@@ -45,4 +45,4 @@ Networking is a foundational aspect of cyber security, enabling communication be
 
 ## Visual Example
 
-![Computer Networking Illustration](https://upload.wikimedia.org/wikipedia/commons/3/3a/Computer-network.svg)
+![Computer Networking Illustration](https://static.wixstatic.com/media/e073f6_48d3e6b9da884e1b963b242c802ab3df~mv2.jpg/v1/fill/w_948,h_609,al_c,q_85,enc_avif,quality_auto/e073f6_48d3e6b9da884e1b963b242c802ab3df~mv2.jpg)
